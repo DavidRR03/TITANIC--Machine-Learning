@@ -11,3 +11,6 @@ El objetivo de este proyecto es construir un modelo de clasificación que predig
 El proyecto está estructurado de la siguiente manera:
 * Archivos -> Documentos .csv donde vienen todos los datos necesarios.
 * Regresión Logística -> Archivo que incluye el script de modelo de Regresión Logística.
+
+#### Contribuciones
+Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, por favor haz un fork del repositorio, crea una rama con tus cambios y envía un pull request.
