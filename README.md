@@ -1,6 +1,6 @@
 # Predicción de Supervivientes del Titanic con Regresión Logística
 
-![Titanic](https://storage.googleapis.com/kaggle-datasets-images/1355/2445/36b12c4c2cb8097c57a543ffe0a614c6/dataset-cover.jpg)
+![Titanic](https://github.com/DavidRR03/TITANIC--Machine-Learning/blob/main/dataset-cover.jpg)
 
 ¡Bienvenido/a al proyecto de predicción de supervivientes del Titanic! Este proyecto demuestra mi habilidad para aplicar técnicas avanzadas de Machine Learning para resolver problemas de predicción.
 
