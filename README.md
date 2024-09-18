@@ -1,6 +1,6 @@
 # Predicción de Supervivientes del Titanic con Regresión Logística
 
-![Titanic](titanic.jpg)
+![Titanic]([titanic.jpg](https://storage.googleapis.com/kaggle-datasets-images/1355/2445/36b12c4c2cb8097c57a543ffe0a614c6/dataset-cover.jpg))
 
 ¡Bienvenido/a al proyecto de predicción de supervivientes del Titanic! Este proyecto demuestra mi habilidad para aplicar técnicas avanzadas de Machine Learning para resolver problemas de predicción.
 
@@ -36,9 +36,9 @@ Este proyecto no solo demostró mis habilidades técnicas en Machine Learning, s
 
 
 ## Contacto
-- **Nombre**: [David Rodrigo Rubio]
-- **Email**: [david_rr03@hotmail.com]
-- **LinkedIn**: [www.linkedin.com/in/david-rodrigo-rubio-7b058130]
+- **Nombre**: David Rodrigo Rubio
+- **Email**: david_rr03@hotmail.com
+- **LinkedIn**: www.linkedin.com/in/david-rodrigo-rubio-7b058130
 
 
 ## Agradecimientos
