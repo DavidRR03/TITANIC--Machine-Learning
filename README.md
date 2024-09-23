@@ -32,19 +32,13 @@ pip install -r requirements.txt
 
 
 ## Resultados y Futuro
-Este proyecto no solo demostró mis habilidades técnicas en Machine Learning, sino también mi capacidad para manejar datos complejos y extraer insights significativos. Estoy emocionado/a por aplicar estas habilidades en nuevos desafíos y proyectos innovadores.
-
-
-## Contacto
-- **Nombre**: David Rodrigo Rubio
-- **Email**: david_rr03@hotmail.com
-- **LinkedIn**: www.linkedin.com/in/david-rodrigo-rubio-7b058130
+Este proyecto no solo demostró mis habilidades técnicas en Machine Learning, sino también mi capacidad para manejar datos complejos y extraer insights significativos. Estoy emocionado por aplicar estas habilidades en nuevos desafíos y proyectos innovadores.
 
 
 ## Agradecimientos
 Agradezco a Kaggle por el acceso al dataset del Titanic y a la comunidad de Machine Learning por sus recursos educativos y de soporte.
 
 
-🚢🔍📊 ¡Explorar el Titanic fue solo el principio! Espero poder discutir más sobre este proyecto y mis habilidades en una entrevista.
+🚢🔍📊 ¡Explorar el Titanic fue solo el principio! Ahora toca buscar una nueva aventura de datos...
 
 
